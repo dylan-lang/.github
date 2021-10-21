@@ -1,8 +1,8 @@
-# .github
+# dylan-lang
 
-The `dylan-lang` organization hosts the repositories for the Open Dylan implementation of
-the Dylan programming language ([opendylan](https://github.com/dylan-lang/opendylan)), as
-well as most Dylan libraries.
+This organization hosts the repositories for the Open Dylan implementation of the Dylan
+programming language ([opendylan](https://github.com/dylan-lang/opendylan)), as well as
+most Dylan libraries.
 
 There are some other notable organizations that host Dylan library repos:
 
