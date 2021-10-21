@@ -9,4 +9,4 @@ There are some other notable organizations that host Dylan library repos:
 *  https://github.com/dylan-foundry
 *  https://github.com/waywardmonkeys
 
-See https://opendylan.org for more info!
+See [opendylan.org](https://opendylan.org) for more info!
