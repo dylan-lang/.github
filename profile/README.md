@@ -6,7 +6,8 @@ most Dylan libraries.
 
 There are some other notable organizations that host Dylan library repos:
 
-*  https://github.com/dylan-foundry
-*  https://github.com/waywardmonkeys
+*  https://github.com/dylan-foundry (Bruce Mitchener's libraries)
+*  https://github.com/waywardmonkeys (more Bruce Mitchener libraries)
+*  https://github.com/dylan-hackers (other Dylan implementations and historical repos)
 
 See [opendylan.org](https://opendylan.org) for more info!
